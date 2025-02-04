@@ -17,7 +17,8 @@
 
 ## 3 Requetes ChapGpt
 
-comment récupérer des indicateurs graphiques crypto avec API AlphaVantage puis les affichier dans un graphique
+comment récupérer des indicateurs graphiques crypto avec API AlphaVantage puis les affichier dans un graphique dans un programme python
+
 
 
 
